@@ -30,4 +30,5 @@ To see the playerlist, type `![server name]`, for example `!server1`. This requi
 Feel free to add issues or better yet, do pull requests!
 
 The bot is developed and tested on `Node.js v10.4.1`. 
+
 [My Discord Channel](https://discord.gg/d6kApVWV) where you can see the details of my scripts and ask for help from me or reach me.
